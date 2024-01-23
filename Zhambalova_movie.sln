@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zhambalova_movie", "Zhambalova_movie.csproj", "{C1C199F5-FCFA-4618-8DCB-B1EBE4321B38}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccess", "..\DataAccess\DataAccess.csproj", "{A3AE2D7A-EEB1-4EBA-91FE-9846A2F1EFCC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C1C199F5-FCFA-4618-8DCB-B1EBE4321B38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1C199F5-FCFA-4618-8DCB-B1EBE4321B38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1C199F5-FCFA-4618-8DCB-B1EBE4321B38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1C199F5-FCFA-4618-8DCB-B1EBE4321B38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3AE2D7A-EEB1-4EBA-91FE-9846A2F1EFCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3AE2D7A-EEB1-4EBA-91FE-9846A2F1EFCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3AE2D7A-EEB1-4EBA-91FE-9846A2F1EFCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3AE2D7A-EEB1-4EBA-91FE-9846A2F1EFCC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {046156E2-DCE6-484D-B471-10FEA83E6D30}
+	EndGlobalSection
+EndGlobal
